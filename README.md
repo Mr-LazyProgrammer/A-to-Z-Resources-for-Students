@@ -629,6 +629,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 | [John Hunter Matplotlib Summer Fellowship](https://www.numfocus.org/programs/john-hunter-technology-fellowship)| Yes |
 | [GNOME Internship Program](https://wiki.gnome.org/Internships)| Yes |
 | [Igalia Coding Experience Program](https://www.igalia.com/about-us/coding-experience)| Yes |
+| [Kharagpur Winter of Code](https://kwoc.kossiitkgp.org)|  |
 
 *Interns must be currently enrolled or employed at a U.S. university or other research institution and must currently reside in, and be eligible to work in, the United States.<br />
 ** OSoC is only open to Belgian students.
